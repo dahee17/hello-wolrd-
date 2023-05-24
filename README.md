@@ -20,9 +20,9 @@ print("bye bye")
 ```
 test
 ---
-nuber 1
-number 2
-number 3
++nuber 1
+-number 2
+*number 3
 
 ---
 option 1
